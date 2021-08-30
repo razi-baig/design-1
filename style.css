@@ -1,0 +1,135 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.main {
+  background-color: grey;
+  border: 10px solid black;
+}
+.left {
+  width: 40%;
+  height: 69vh;
+  background-color: white;
+  border-radius: 5px;
+}
+#loe {
+  padding: 10px;
+}
+#soi {
+  padding: 20px;
+}
+.both {
+  display: flex;
+  background-color: grey;
+  justify-content: space-between;
+}
+.right {
+  width: 100%;
+  height: 70vh;
+}
+.right1 {
+  width: 100%;
+  height: 20vh;
+  background-color: grey;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.start {
+  width: 40%;
+  height: 10vh;
+  background-color: white;
+  text-align: center;
+  align-items: center;
+  border-radius: 5px;
+  margin: 5px;
+}
+.start > h3 {
+  margin: 20px;
+}
+.end {
+  width: 40%;
+  height: 10vh;
+  background-color: white;
+  text-align: center;
+  border-radius: 5px;
+  margin: 5px;
+}
+.end > h3 {
+  margin: 20px;
+}
+.running {
+  width: 40%;
+  height: 10vh;
+  background-color: white;
+  text-align: center;
+  border-radius: 5px;
+  margin: 5px;
+}
+.running > h3 {
+  margin: 20px;
+}
+.for {
+  width: 40%;
+  height: 10vh;
+  background-color: white;
+  text-align: center;
+  border-radius: 5px;
+  margin: 5px;
+}
+.for > h3 {
+  margin: 20px;
+}
+.right2 {
+  width: 100%;
+  height: 20vh;
+  display: flex;
+  justify-content: space-between;
+  background-color: grey;
+  align-items: center;
+}
+.right3 {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  height: 20vh;
+  background-color: grey;
+  align-items: center;
+}
+.total {
+  width: 28%;
+  height: 10vh;
+  background-color: white;
+  border-radius: 5px;
+  margin: 5px;
+}
+.total > h3 {
+  margin: 20px;
+}
+.unsafe {
+  width: 28%;
+  height: 10vh;
+  background-color: white;
+  border-radius: 5px;
+  margin: 5px;
+}
+.unsafe > h3 {
+  margin: 20px;
+}
+.option {
+  width: 28%;
+  height: 10vh;
+  background-color: white;
+  border-radius: 5px;
+  margin: 5px;
+}
+.option > h3 {
+  margin: 20px;
+}
+.lower {
+  background-color: white;
+  width: 100%;
+  height: 20vh;
+  color: black;
+  text-align: center;
+}
